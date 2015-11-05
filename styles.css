@@ -55,3 +55,7 @@ h1 > span{
   min-height: 300px;
   text-align: center;  
 }
+
+.final {
+    display: none;
+}
